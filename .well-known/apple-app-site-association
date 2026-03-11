@@ -1,5 +1,20 @@
 {
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "BQU29V8BHR.Lucas.LucasHQ",
+          "BQU29V8BHR.Lucas.LucasHQClip"
+        ],
+        "components": [
+          { "/": "/clip/*" }
+        ]
+      }
+    ]
+  },
   "appclips": {
-    "apps": ["BQU29V8BHR.com.lucashq.clip"]
+    "apps": [
+      "BQU29V8BHR.Lucas.LucasHQClip"
+    ]
   }
 }
